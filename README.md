@@ -1,2 +1,2 @@
 # Django-Project
- Django course, my first contact with Django framework.
+My first contact with Django framework.
