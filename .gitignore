@@ -112,3 +112,4 @@ db copy.sqlite3
 static/
 project
 manage.py
+recipes
